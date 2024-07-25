@@ -7,8 +7,8 @@ I like making Website and learn networking
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/k4genou)
-[![instagram](https://img.shields.io/badge/instagram-F1B04C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k4genou._/)
+[![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+[![instagram](https://img.shields.io/badge/instagram-F1B04C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryandra.js/)
 
 
 
