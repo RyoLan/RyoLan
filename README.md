@@ -1,4 +1,4 @@
-# Hello there 👋 I'm Ryo ✨
+# Hello there 👋 I'm Ryo 
 
 *Ryandra Gunawan, 17 years old and I am a **Fullstacks Developer*<br>
 I'm School in Vocational high School, particularly Website development
